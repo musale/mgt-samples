@@ -41,7 +41,7 @@ This sample illustrates the following concepts on top of the Microsoft Graph Too
 
 Experience a Live Preview of mgt-agenda-linear in the Microsoft Graph Toolkit Playground
 
-[![Microsoft Graph Toolkit Playground](https://img.shields.io/badge/Microsoft_Graph_Toolkit-Playground-green.svg)](https://mgt.dev?path=/story/editor--editor&manifest=https://github.com/musale/mgt-samples/tree/musale/file-list-multiselect/samples/mgt-file-list-multiselect)
+[![Microsoft Graph Toolkit Playground](https://img.shields.io/badge/Microsoft_Graph_Toolkit-Playground-green.svg)](https://mgt.dev?path=/story/editor--editor&manifest=https://raw.githubusercontent.com/musale/mgt-samples/musale/file-list-multiselect/samples/mgt-file-list-multiselect/assets/mgt-file-list-multiselect.json)
 
 ## Help
 
