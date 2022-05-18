@@ -1,7 +1,7 @@
 [
   {
     "name": "pnp-mgt-samples-mgt-agenda-linear",
-    "source": "musale",
+    "source": "pnp",
     "title": "Linear events template using mgt-agenda",
     "shortDescription": "Linear representation of events using the mgt-agenda component",
     "url": "https://github.com/pnp/mgt-samples/tree/main/samples/mgt-agenda-linear",
