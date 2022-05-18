@@ -1,0 +1,53 @@
+[
+    {
+      "name": "pnp-mgt-samples-mgt-file-list-multiselect",
+      "source": "pnp",
+      "title": "Multiple File Select using mgt-file-list",
+      "shortDescription": "Multiple File Select using mgt-file-list",
+      "url": "https://github.com/musale/mgt-samples/tree/musale/file-list-multiselect/samples/mgt-file-list-multiselect",
+      "longDescription": [
+        "Select and deselect multiple files from the mgt-file-list component"
+      ],
+      "creationDateTime": "2022-05-18",
+      "updateDateTime": "2022-05-18",
+      "products": ["Microsoft Graph", "Microsoft Graph Toolkit"],
+      "metadata": [
+        {
+          "key": "MGT-COMPONENT",
+          "value": "mgt-file-list"
+        },
+        {
+          "key": "CLIENT-SIDE-DEV",
+          "value": "JavaScript"
+        }
+      ],
+      "thumbnails": [
+        {
+          "type": "image",
+          "order": 100,
+          "url": "https://github.com/pnp/mgt-samples/raw/main/samples/mgt-agenda-linear/assets/mgt-agenda-linear.png",
+          "alt": "Preview"
+        }
+      ],
+      "preview": {
+        "html": "https://raw.githubusercontent.com/pnp/mgt-samples/main/samples/mgt-file-list-multiselect/src/mgt-file-list-multiselect.html",
+        "js": "https://raw.githubusercontent.com/pnp/mgt-samples/main/samples/mgt-file-list-multiselect/src/mgt-file-list-multiselect.js",
+        "css": "https://raw.githubusercontent.com/pnp/mgt-samples/main/samples/mgt-file-list-multiselect/src/mgt-file-list-multiselect.css"
+      },
+      "authors": [
+        {
+          "gitHubAccount": "musale",
+          "pictureUrl": "https://github.com/musale.png",
+          "name": "Musale Martin"
+        }
+      ],
+      "references": [
+        {
+          "name": "Getting started with the Microsoft Graph Toolkit",
+          "description": "The Microsoft Graph Toolkit components can easily be added to your web application, SharePoint web part, or Microsoft Teams tabs. The components are based on web standards and can be used in both plain JavaScript projects or with popular web frameworks such as Reach, Angular, Vue.js, and more.",
+          "url": "https://docs.microsoft.com/graph/toolkit/get-started/overview"
+        }
+      ]
+    }
+  ]
+  
